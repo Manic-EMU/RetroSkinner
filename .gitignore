@@ -1,0 +1,45 @@
+# ===== macOS =====
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ===== Node.js / Frontend =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Build artifacts (auto-generated, rebuild with `npm run build`)
+Figma Plugin/code.js
+Figma Plugin/ui.built.html
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude/
+
+# ===== Environment / Secrets =====
+.env
+.env.local
+.env.*.local
+*.pem
+credentials.json
