@@ -172,6 +172,8 @@ Top-level Frame or Component layers defining each device/orientation variant:
 | `iphone_standard_landscape` | iPhone | Standard | Landscape |
 | `ipad_standard_portrait` | iPad | Standard | Portrait |
 | `ipad_standard_landscape` | iPad | Standard | Landscape |
+| `tv_standard_portrait` | Apple TV | Standard | Portrait |
+| `tv_standard_landscape` | Apple TV | Standard | Landscape |
 
 You only need to include the variants your skin supports.
 

@@ -28,6 +28,8 @@ FEATURE_NAMES = [
     "iphone_standard_landscape",
     "ipad_standard_portrait",
     "ipad_standard_landscape",
+    "tv_standard_portrait",
+    "tv_standard_landscape",
 ]
 
 

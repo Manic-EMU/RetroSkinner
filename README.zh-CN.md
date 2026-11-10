@@ -172,6 +172,8 @@ My Skin (manic).manicskin    # 即装即用的 ZIP 归档文件
 | `iphone_standard_landscape` | iPhone | 标准 | 横屏 |
 | `ipad_standard_portrait` | iPad | 标准 | 竖屏 |
 | `ipad_standard_landscape` | iPad | 标准 | 横屏 |
+| `tv_standard_portrait` | Apple TV | 标准 | 竖屏 |
+| `tv_standard_landscape` | Apple TV | 标准 | 横屏 |
 
 您只需包含皮肤支持的变体即可。
 
